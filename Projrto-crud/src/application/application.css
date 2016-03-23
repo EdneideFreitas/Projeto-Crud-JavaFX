@@ -1,0 +1,124 @@
+ .button{
+ 	-fx-padding: 8.0px 25.0px;		
+ }
+
+/***************************************************************************
+ * topoID
+ *************************************************************************/
+
+#topoID{
+	
+	-fx-padding: 12.0px;
+	-fx-min-width: 600.0px;
+	-fx-min-height: 60.0px;
+	-fx-border-style: dotted ;
+	-fx-border-insets: 1.0px;
+}
+#topoID .label{
+	-fx-font-size: 18.0px;
+	-fx-font-family: "segoe UI Semibold";
+	-fx-text-fill: #999;
+}
+
+/***************************************************************************
+ * vboxFormulario
+ *************************************************************************/
+
+#vboxFormulario{
+	-fx-padding: 12.0px;
+	-fx-min-width: 250.0px;
+	-fx-min-height: 150.0px;
+	-fx-border-style: dotted ;
+	-fx-border-insets: 1.0px;
+}
+#vboxFormulario .label{
+	-fx-font-size: 16.0px;
+	-fx-font-family: "segoe UI Semibold";
+	-fx-text-fill: #999;
+	-fx-padding: 5.0px 0.0 5.0px 0.0;
+}
+
+#vboxFormulario .text-field{
+	-fx-padding: 8.0px ;
+	-fx-background-radius: 8.0px;
+}
+
+
+
+/***************************************************************************
+ * hboxBotaoCadastroID
+ *************************************************************************/
+ #hboxBotaoCadastroID{
+ 	-fx-padding: 12.0px;
+	-fx-min-width: 250.0px;
+	-fx-min-height: 60.0px;
+	-fx-border-style: dotted ;
+	-fx-border-insets: 1.0px;
+ }
+ #hboxBotaoCadastroID .button{
+ 	-fx-padding: 8.0px 25.0px;
+ 	
+ 	
+ }
+ #buttonCancelarID{
+ 	-fx-translate-x: 8.0px;
+ }
+ /***************************************************************************
+ * hboxButtonEditID - BOTAO DE EXCLUSAO E EDICAO
+ *************************************************************************/
+ #hboxButtonEditID{
+ 	-fx-padding: 12.0px;
+	-fx-min-width: 680.0px;
+	-fx-min-height: 60.0px;
+	-fx-border-style: dotted ;
+	-fx-border-insets: 1.0px;
+	-fx-translate-x: 250.0;
+	-fx-alignment: center-right ;
+ }
+ #ButtonExcluirID{
+ 	-fx-translate-x: -5;
+ }
+ 
+ 
+
+ /*******************************************************************
+  * tabelaPessoaID
+  ******************************************************************/
+  #tabelaPessoaID{
+  	
+	-fx-min-width: 300.0px;
+	-fx-min-height: 190.0px;
+	-fx-border-style: dotted ;
+	-fx-border-insets: 1.0px;
+  }
+  
+.table-view{
+	-fx-min-width: 600.0px;
+	-fx-max-height: 600.0px;
+}
+.table-column{
+-fx-min-width: 190.0px;
+	-fx-font-size: 14.0px;
+	-fx-font-family: "segoe UI Semibold";
+	-fx-text-fill: #999;
+	-fx-padding: 8.0 ;
+	-fx-alignment: center ;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
